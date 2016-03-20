@@ -229,6 +229,6 @@ sub getExportOutputFPS {
 ## getOutputFile
 ################
 sub getExportOutputFile {
-    my $output = "video.mp4";
+    my $output = "final.mp4";
     return $output;
 }
